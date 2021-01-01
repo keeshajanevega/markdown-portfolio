@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I will pass the exam*
+_I'll pass the exam_
+
+**I know I'll pass the exam**
+__I know I'll pass the exam__
+
+I'll **Pass** the exam_
